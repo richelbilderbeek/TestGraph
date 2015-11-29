@@ -1,6 +1,6 @@
-#include "ribi_graph.h"
+#include "graph_utils.h"
 
-int main(int argc, char * argv[])
+int main()
 {
-
+  ribi::graph_utils();
 }

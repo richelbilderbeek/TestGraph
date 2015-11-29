@@ -3,7 +3,7 @@ include(../RibiLibraries/Boost.pri)
 include(../RibiLibraries/GeneralConsole.pri)
 
 #Specific, console
-include(../RibiClasses/CppRibiGraph/CppRibiGraph.pri)
+include(../RibiClasses/CppGraphUtils/CppGraphUtils.pri)
 
 include(TestGraphConsole.pri)
 
